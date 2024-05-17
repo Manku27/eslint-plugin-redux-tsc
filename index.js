@@ -1,5 +1,5 @@
-const reduxTsc = require("./reduxTsc-rule");
-const importRule = require("./importRule");
+const reduxTsc = require("./src/reduxTsc-rule");
+const importRule = require("./src/importRule");
 
 module.exports = {
   meta: {
