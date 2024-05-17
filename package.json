@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-redux-tsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "redux",
+    "typescript",
+    "react"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manku27/eslint-plugin-redux-tsc.git"
+  },
+  "author": "Mayank Jhunjhunwala",
+  "license": "MIT",
+  "homepage": "https://github.com/Manku27/eslint-plugin-redux-tsc#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
