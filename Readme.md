@@ -17,8 +17,8 @@ plugins : [
           ],
 rules :   {
            // other rules,
-           "trinity-eslint/reduxTsc": "error",
-           "trinity-eslint/importRule": "error"
+           "redux-tsc/enforce-hooks": "error",
+           "redux-tsc/restrict-react-redux": "error"
           }
 ```
 

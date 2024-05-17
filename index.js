@@ -4,7 +4,7 @@ const importRule = require("./src/importRule");
 module.exports = {
   meta: {
     name: "eslint-plugin-redux-tsc",
-    version: "1.0.0",
+    version: "1.0.1",
   },
   rules: {
     "enforce-hooks": reduxTsc,
